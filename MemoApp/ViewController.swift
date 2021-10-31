@@ -5,10 +5,10 @@
 //  Created by 高橋知憲 on 2021/10/31.
 //
 
+// テスト用のコメントだよ
 import UIKit
 
 class ViewController: UIViewController, UITextViewDelegate {
-
     @IBOutlet weak var textView: UITextView!
     
     override func viewDidLoad() {
